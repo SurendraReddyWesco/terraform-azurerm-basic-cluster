@@ -1,3 +1,5 @@
+[![Generate terraform docs](https://github.com/SurendraReddyWesco/terraform-azurerm-basic-cluster/actions/workflows/docs.yml/badge.svg)](https://github.com/SurendraReddyWesco/terraform-azurerm-basic-cluster/actions/workflows/docs.yml) [![tfsec](https://github.com/SurendraReddyWesco/terraform-azurerm-basic-cluster/actions/workflows/tfsec.yml/badge.svg)](https://github.com/SurendraReddyWesco/terraform-azurerm-basic-cluster/actions/workflows/tfsec.yml)
+
 # terraform registry
 terraform registry to create the basic kubernetes cluster
 

@@ -26,7 +26,11 @@ No resources.
 
 ## Inputs
 
-No inputs.
+| Name | Description | Type | Default | Required |
+|------|-------------|------|---------|:--------:|
+| <a name="input_cluster_name"></a> [cluster\_name](#input\_cluster\_name) | The name for the AKS cluster | `any` | n/a | yes |
+| <a name="input_env_name"></a> [env\_name](#input\_env\_name) | The environment for the AKS cluster | `any` | n/a | yes |
+| <a name="input_instance_type"></a> [instance\_type](#input\_instance\_type) | instance type for the AKS cluster | `any` | n/a | yes |
 
 ## Outputs
 

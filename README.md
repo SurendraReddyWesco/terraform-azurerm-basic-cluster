@@ -1,2 +1,2 @@
-# terraform-azurerm-basic-cluster
-Basic Kubernetes Cluster
+# terraform registry
+terraform registry to create the basic kubernetes cluster

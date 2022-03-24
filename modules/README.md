@@ -1,3 +1,4 @@
+[![Generate terraform docs](https://github.com/SurendraReddyWesco/terraform-azurerm-basic-cluster/actions/workflows/docs.yml/badge.svg)](https://github.com/SurendraReddyWesco/terraform-azurerm-basic-cluster/actions/workflows/docs.yml)
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
